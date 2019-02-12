@@ -2,7 +2,7 @@
 
 #include <iostream>
 #include <string>
-#include "moon.h"
+#include "moon.hpp"
 
 
 using namespace std;
